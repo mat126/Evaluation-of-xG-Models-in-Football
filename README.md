@@ -1,4 +1,4 @@
-# Choosing-the-best-model-for-estimating-expected-goals
+# Evaluation of xG Models in Football
 **Data from:** Understat
 
 In this project, I explored various statistical models to evaluate expected goals (xG) in football, aiming to identify the most suitable model. The evaluation was performed by considering **Open Play** and **Set Piece** actions separately, further dividing the data between **Foot** and **Head** shots.
